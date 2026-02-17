@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsPgConnections version="1.0">
+    <postgis saveUsername="false" name="sig_123140211" estimatedMetadata="true" projectsInDatabase="true" database="sig_123140211" allowGeometrylessTables="true" publicOnly="true" schema="" geometryColumnsOnly="false" sslmode="SslPrefer" savePassword="false" host="" port="5432" dontResolveType="true" service=""/>
+</qgsPgConnections>
